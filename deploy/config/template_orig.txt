@@ -1,0 +1,54 @@
+#http-server-address = 127.0.0.1:8888
+http-server-address = 0.0.0.0:8888
+monitor-server-endpoint =http://120.92.169.174:8078
+p2p-listen-endpoint = 0.0.0.0:20122
+rpos-p2p-listen-endpoint = 0.0.0.0:20123
+udp-listen-port = 20124
+
+max-static-clients = 200
+max-dynamic-clients = 200
+max-passive-out-count = 100
+min-connections = 8
+max-retry-count = 3
+# Please modify the list size according to producer count 
+max-grey-list-size = 10
+
+#monitor_server
+
+allowed-connection = producers
+
+max-transaction-time = 1000
+contract-return-string-length = 1024
+contract-emit-string-length = 1024
+
+#insert_genesis-time
+
+#insert_peers
+
+#insert_udp_seeds
+udp-seed  = 172.22.1.90
+
+#insert_if_producing-node
+
+#futuremng_subchainHttpEndpoint
+
+#world_state_config
+
+#insert_my_keys
+
+#chain_name
+chain-name = sporty
+#world-state
+
+#max-clients
+
+#mongo-config
+
+# Optional public key of peer allowed to connect
+genesis-pk = 369c31f242bfc5093815511e4a4eda297f4b8772a7ff98f7806ce7a80ffffb35
+peer-key = FUT7oeoLrJr8916r32UqyoEZCUf9sywP7WNN5Ch2WwsGEXixNdYvx
+peer-key = FUT7V62G142uurvLebpjvw9m5HLRHtAWPo7BuivnxV8by8eA6qbTA
+plugin = futureio::chain_info_api_plugin
+plugin = futureio::monitor_plugin
+
+genesis-startup-time = 300

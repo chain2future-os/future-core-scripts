@@ -1,0 +1,24 @@
+dockerinfo
+['287c430dfa7d', '0c54a42f897c', '14ab55c15ed5', '22c69b4e1c51', 'd5be731f544c', '3ad2d6f8a49b', 'bf5565550cff']
+['qxf_m-7', 'qxf_m-6', 'qxf_m-5', 'qxf_m-4', 'qxf_m-3', 'qxf_m-2', 'qxf_m-1']
+['172.17.0.3', '172.17.0.4', '172.17.0.5', '172.17.0.6', '172.17.0.7', '172.17.0.8', '172.17.0.9']
+config/config/bf5565550cff.ini
+('config', '172.17.0.9', 'bf5565550cff')
+config/config/3ad2d6f8a49b.ini
+('config', '172.17.0.8', '3ad2d6f8a49b')
+config/config/d5be731f544c.ini
+('config', '172.17.0.7', 'd5be731f544c')
+config/config/22c69b4e1c51.ini
+('config', '172.17.0.6', '22c69b4e1c51')
+config/config/14ab55c15ed5.ini
+('config', '172.17.0.5', '14ab55c15ed5')
+config/config/0c54a42f897c.ini
+('config', '172.17.0.4', '0c54a42f897c')
+config/config/287c430dfa7d.ini
+is-non-producing-node = 1
+http-server-address = 0.0.0.0:8888
+http-alias = 172.16.10.5:8888
+plugin = futureio::chain_api_plugin
+contracts-console = 1
+
+('config', '172.17.0.3', '287c430dfa7d')

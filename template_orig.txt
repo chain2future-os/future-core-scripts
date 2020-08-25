@@ -1,0 +1,50 @@
+#http-server-address = 127.0.0.1:8888
+
+p2p-listen-endpoint = 0.0.0.0:20122
+rpos-p2p-listen-endpoint = 0.0.0.0:20123
+udp-listen-port = 20124
+
+max-static-clients = 200
+max-dynamic-clients = 200
+max-passive-out-count = 100
+min-connections = 8
+max-retry-count = 3
+# Please modify the list size according to producer count 
+max-grey-list-size = 10
+
+#monitor_server
+
+allowed-connection = producers
+
+max-transaction-time = 1000
+contract-return-string-length = 1024
+contract-emit-string-length = 1024
+
+#insert_genesis-time
+
+#insert_peers
+
+#insert_udp_seeds
+
+#insert_if_producing-node
+
+#futuremng_subchainHttpEndpoint
+
+#world_state_config
+
+#insert_my_keys
+
+#chain_name
+
+# Optional public key of peer allowed to connect
+
+plugin = futureio::chain_info_api_plugin
+plugin = futureio::monitor_plugin
+plugin = futureio::state_history_plugin
+chain-state-history = true
+trace-history = false
+plugin = futureio::state_merkle_plugin
+
+genesis-startup-time = 300
+enable-zkp-fns = false
+

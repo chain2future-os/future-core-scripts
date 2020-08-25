@@ -1,0 +1,74 @@
+[
+  {
+    "chainName": "futureio",
+    "seedIp": [
+      "172.17.0.26",
+      "172.17.0.25",
+      "172.17.0.133",
+      "172.17.0.134"
+    ],
+    "peerKeys": [
+      "FUT7Z3j9M7dcXfrBGcBbENQphuG8hAEYyPueT7cc8XzKgzymppJ9Y",
+      "FUT7bFaVVzupNEzyABXXpmJph8eQge6unjvUFPpZ8GnGB37Pgwsey",
+      "FUT8bhGUW3oDvFN1NSyRR7FCxxvNjxJk6Wxb852ZqaTYdyBCyirai",
+      "FUT5o6r3Ws8FAG3tRckNf33j8WthqoEXa5PJWBmfm1yD1P5JQhxpn",
+      "FUT7z9EpWXoP6sX838gRnAtmieX9Tm5xNKdKjgWhmYQFtKmVPHi85",
+      "FUT6DWKfZoRFLHZ54HtB9vxtjBhbXsEgWWt8QZiXyJrFWwsyrmeTu",
+      "FUT7xxbnDoPkCHvpdB3n6wARc8Ksi3rLLr56cBQWJraNhQaRRABZf"
+    ]
+  },
+  {
+    "chainName": "unitopia",
+    "seedIp": [
+      "172.17.0.91",
+      "172.17.0.135",
+      "172.17.0.136",
+      "172.17.0.137"
+    ],
+    "peerKeys": [
+      "FUT7Z3j9M7dcXfrBGcBbENQphuG8hAEYyPueT7cc8XzKgzymppJ9Y",
+      "FUT8ceQzCFsMX5qwsoY5vdqyp85F59Thq5QzB9wc3p2mrBesrp5gw",
+      "FUT7nM9pSzkWx2P1MYeHJg75ApwEKKuGKvzhfkzPUPcnV1geS8tnQ",
+      "FUT6ytFNeYExQX9oaszoQGFZMRTW5ho792xNTW4mpYyk36uGKbHi5",
+      "FUT56sSe7PgvYZxXkF8awhRzxttd1m3TQ3HuPs3jnHLesabY7QHEx",
+      "FUT5nxzTuHyXDJz4YV6UimwM8g8sBv9uaddzpjkkJxsrrEXSBjdfm",
+      "FUT87RTNffMrZ1puCmgTGhQj2mYq6GcMHWdgnmZKezLpF8eTz1rod"
+    ]
+  },
+  {
+    "chainName": "pioneer",
+    "seedIp": [
+      "172.17.0.93",
+      "172.17.0.138",
+      "172.17.0.139",
+      "172.17.0.140"
+    ],
+    "peerKeys": [
+      "FUT7Z3j9M7dcXfrBGcBbENQphuG8hAEYyPueT7cc8XzKgzymppJ9Y",
+      "FUT71HKR1X9ex149K715CJ3Qv2GcFZtAkaaQnw1toNE8RjAvgQrnx",
+      "FUT7B5H2mq1xdBx1LTicYTx5nkXypHcLwGCCoLCBnwkNSB1dfTbvj",
+      "FUT62cmZyLq4Gn3uWcKk9yqRp52Yo1M1XBZLUn5HTWUcy8uNykwVf",
+      "FUT6nUtnDxmAUwt188C5cdbW5LxS3NzZbChJhJmpznLka4wPkKazi",
+      "FUT8Fc2qRTHdsm4ctW64Hfs46WEzFxdwAvqiVj47cJCpAkyDiomCZ",
+      "FUT7Pmz6MkXLPfNXK4wFFCSQThecsVXpoggje27VTXgNFQy3eqNMr"
+    ]
+  },
+  {
+    "chainName": "newretail",
+    "seedIp": [
+      "172.17.0.141",
+      "172.17.0.142",
+      "172.17.0.143",
+      "172.17.0.144"
+    ],
+    "peerKeys": [
+      "FUT7Z3j9M7dcXfrBGcBbENQphuG8hAEYyPueT7cc8XzKgzymppJ9Y",
+      "FUT8h1j5kb9M8RwrhJ5tQbN6K9mDbT2cgeGoZ1DxKUWnfognHog2n",
+      "FUT6oCwi5uTwccWyKBnSdzhGYP4qV32U2o17emSi3kinskmqXuXRy",
+      "FUT7KCiKvEDm3zzEFXzg12etLfEpJbmjzZ8kXyPnXcjj95XAM8GxU",
+      "FUT6TrFBncnFKmqaSXfkf7p8pxGBMX5h3jNFjFHs56kwZgwUZJo3j",
+      "FUT5wtp4HJBER9Bpi1YxkPrwJ3iNDHjmzTwp9qX986vPtjicz6i7G",
+      "FUT6DKcqWkb5h88cLH5tej9FM9FCnCNBG21iWztTBQPisXXdUPfyY"
+    ]
+  }
+]
